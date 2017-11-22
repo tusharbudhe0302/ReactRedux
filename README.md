@@ -5,5 +5,7 @@ React Redux to interact with social api feeds.
 
 # Install node modules
 npm install
-#to start app
+#To start UI
 npm start
+# To start api
+npm start-server

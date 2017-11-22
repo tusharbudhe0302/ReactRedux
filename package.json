@@ -4,7 +4,8 @@
   "description": "React shouls call Soical network API.",
   "main": "webpack.config.js",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+    "start-ui": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "start-server": "node ./server/app.js"
   },
   "author": "Tushar",
   "license": "ISC",
